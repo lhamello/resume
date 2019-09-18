@@ -46,15 +46,15 @@ icon:html5[] Read this resume {link-resume}/index.html[in HTML5 here, role="exte
 endif::[]
 
 [discrete]
-== Systems Analist / Developer
+== Systems Analyst / Developer
 
 ****
 
-I'm a *systems analist/developer* who works with many technologies, like *Java, Microsoft .Net and Android*.+
+I'm a *systems analyst/developer* who works with many technologies, like *Java, Microsoft .Net and Android*.+
 
 I have a bachelor degree in {link-resume}/#_education[Systems Information] and I work with software development since 2007. +
 
-I'm currently working as a team leader, systems analist and developer at {link-procergs}[PROCERGS^]. My team is responsible for maintain and develop new features for a system of the state traffic department. +
+I'm currently working as a team leader, systems analyst and developer at {link-procergs}[PROCERGS^]. My team is responsible for maintain and develop new features for a system of the state traffic department. +
 
 
 ****
@@ -69,15 +69,12 @@ I'm currently working as a team leader, systems analist and developer at {link-p
 
 == Main interests
 
-* Java 
+* Java
+* Web development
+* Mobile apps 
 * Agile methodologies
-* Testing (junit/Arquillian/BDD)
-* Continuous Delivery
 * SOA / Microservices
-* Docker and containers related technologies
-* Documentation (Asciidoctor)
-* Functional languages (Kotlin/Groovy)
-* Cloud (AWS and OpenShift)
+
  
 == Professional Experience
 
@@ -91,17 +88,10 @@ icon:group[title="Employee"] {link-procergs}[PROCERGS - Cia. de Processamento de
 Position:: *Team leader - Systems analist - Developer (Java, Android, .Net) - Agile* +
 --
 
-* Create and maintain in house JavaEE based solutions for speed up internal development
-* Part of a Technical team which supports 200+ developers
-* Prospecting new technologies (R&D)
-* Evangelizing good practice and disciplines of agile methodologies such as testing and continuous delivery
-* Migration of legacy technology to service based architecture
-* Helps maintain infrastructure tools like {link-wso2}[WSO2^], {link-app-dynamics}[AppDynamics^], {link-jenkins}[Jenkins^], {link-sonar}[Sonar^] and {link-artifactory}[Artifactory^]
-* Develop and maintain an internal (devops) tool to help developers in _App Servers management_ (deploy applications, view logs, start/stop apps, logging configuration, create system props, enable blue/green deployment etc...)
-* Write documentation and blog about best practices
-* Drive/help teams to build delivery pipelines on Jenkins
-* Migration of legacy applications (JavaEE 5 or below) to new stack (Java EE 7/8)
-* worked 3 years (2011-2014) in internal software factory using scrum
+* Designing, analyzing and developing software for the state traffic department. 
+* Migrating legacy systems in Cobol to Java applications.
+* Worked on the development of Android apps.
+* Acting as a Scrum Master and a team leader.
 
 ==== Used technologies
 
@@ -140,15 +130,15 @@ Position:: *Microsoft Developer* +
 
 === Microsoft Developer at Rede&Imagem
 
-icon:calendar[title="Period"] _January 2009 to Febuary 2010_ +
+icon:calendar[title="Period"] _January 2009 to February 2010_ +
 icon:group[title="Employee"] {link-redeimagem}[Rede & Imagem Tecnologias LTDA , role="external", window="_blank"] +
 
 --
 [horizontal]
 Position:: *Microsoft Developer* +
 --
-* Worked with systems analisis and design.
-* Worked on desktop and web aplications using C# and ASP.Net.
+* Worked with systems analysis and design.
+* Worked on desktop and web applications using C# and ASP.Net.
 * Designed SQL Server databases with Enterprise Architect.
 
 ==== Used technologies
@@ -185,13 +175,13 @@ Languages and Specifications:: Java SE 7/8, C#, PHP, TypeScript, JavaScript, JSO
 
 Application Servers:: *JBoss EAP 6/7*, Bea Weblogic and Apache Tomcat/Tomee
 
-Frameworks and Libraries:: *Java EE* (JSF, JPA, EJB, Servlet, JSP), http://primefaces.org[Primefaces^], Microsoft .Net Framework, Adroid SDK and Angular
+Frameworks and Libraries:: *Java EE* (JSF, JPA, EJB, Servlet, JSP), http://primefaces.org[Primefaces^], Microsoft .Net Framework, Android SDK and Angular
 
 OS:: Windows
 
 Databases:: Oracle, MySQL and SQL Server
 
-Tools:: Eclipse, Maven, Redmine, Subversion, Git, Jenkins, Artifactory, Astah, ERWin, Adroid Studio, Visual Studio Code and Microsoft Visual Studio
+Tools:: Eclipse, Maven, Redmine, Subversion, Git, Jenkins, Artifactory, Astah, ERWin, Android Studio, Visual Studio Code and Microsoft Visual Studio
 
 ADLM:: TFS
 
@@ -214,6 +204,6 @@ ADLM:: TFS
 
 * Android Fundamentals - {link-sisnema}[Sisnema, role="external", window="_blank"] - icon:calendar[title="Period"] 2011 - *Concluded*
 * Android Advanced - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2013 - *Concluded*
-* Dinamic Web Development with Java - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2014 - *Concluded*
+* Dynamic Web Development with Java - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2014 - *Concluded*
 * UX and UI for mobile - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2016 - *Concluded*
 * Angular - {link-alura}[Alura, role="external", window="_blank"] - icon:calendar[title="Period"] 2019 - *Concluded*
