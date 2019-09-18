@@ -1,0 +1,219 @@
+= Guilherme Castello
+Guilherme Castello <guilhermecastello@gmail.com>
+Kismet Chameleon <kismet@asciidoctor.org>
+:revnumber: 1.0 
+:revdate: Set 2019
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+
+// Refs
+:link-resume: http://guilhermecastello.github.io/resume
+:link-linkedin: https://www.linkedin.com/in/guilherme-castello-5a6440163/
+:link-twitter: https://twitter.com/castelloGui
+:link-home: https://goo.gl/maps/NpRTv
+
+:link-pucrs: http://www.pucrs.br/
+:link-ufrgs: http://www.ufrgs.br/
+:link-procergs: http://www.procergs.rs.gov.br/
+:link-redeimagem: https://www.redeimagem.com.br/
+:link-totvs: https://www.totvs.com/
+:link-banrisul: https://www.banrisul.com.br/
+
+
+//projects
+:link-github: https://github.com/guilhermecastello
+
+
+//other links
+:link-sisnema: http://www.sisnema.com.br/
+:link-targettrust: https://targettrust.com.br/
+:link-alura: https://www.alura.com.br/
+:link-jenkins: https://jenkins.io/
+:link-artifactory: https://www.jfrog.com/open-source/
+
+
+ifeval::["{backend}" == "html5"]
+icon:file-pdf-o[] Read this resume {link-resume}/index.pdf[in PDF here, role="external", window="_blank"]. +
+endif::[]
+
+ifeval::["{backend}" == "pdf"]
+icon:html5[] Read this resume {link-resume}/index.html[in HTML5 here, role="external", window="_blank"]. +
+endif::[]
+
+[discrete]
+== Systems Analist / Developer
+
+****
+
+I'm a *systems analist/developer* who works with many technologies, like *Java, Microsoft .Net and Android*.+
+
+I have a bachelor degree in {link-resume}/#_education[Systems Information] and I work with software development since 2007. +
+
+I'm currently working as a team leader, systems analist and developer at {link-procergs}[PROCERGS^]. My team is responsible for maintain and develop new features for a system of the state traffic department. +
+
+
+****
+
+== Personal details
+
+`Name:` Guilherme Medina Castello +
+`Social Media:` icon:linkedin[link={link-linkedin}, role="external", window="_blank", alt="@guilhermecastello"] / icon:github[link={link-github}, role="external", window="_blank", alt="@guilhermecastello"] / icon:twitter[link={link-twitter}, role="external", window="_blank", alt="@castelloGui"] +
+`Location:` {link-home}["Porto Alegre/RS, Brazil", role="external", window="_blank"] +
+`Email`: guilhermecastello@gmail.com +
+`Phone:` +55 51 998816365 
+
+== Main interests
+
+* Java 
+* Agile methodologies
+* Testing (junit/Arquillian/BDD)
+* Continuous Delivery
+* SOA / Microservices
+* Docker and containers related technologies
+* Documentation (Asciidoctor)
+* Functional languages (Kotlin/Groovy)
+* Cloud (AWS and OpenShift)
+ 
+== Professional Experience
+
+=== Systems Analyst / Developer at PROCERGS
+
+icon:calendar[title="Period"] _June 2010 to Now (On going)_ +
+icon:group[title="Employee"] {link-procergs}[PROCERGS - Cia. de Processamento de Dados do Rio Grande do Sul, role="external", window="_blank"] +
+
+--
+[horizontal]
+Position:: *Team leader - Systems analist - Developer (Java, Android, .Net) - Agile* +
+--
+
+* Create and maintain in house JavaEE based solutions for speed up internal development
+* Part of a Technical team which supports 200+ developers
+* Prospecting new technologies (R&D)
+* Evangelizing good practice and disciplines of agile methodologies such as testing and continuous delivery
+* Migration of legacy technology to service based architecture
+* Helps maintain infrastructure tools like {link-wso2}[WSO2^], {link-app-dynamics}[AppDynamics^], {link-jenkins}[Jenkins^], {link-sonar}[Sonar^] and {link-artifactory}[Artifactory^]
+* Develop and maintain an internal (devops) tool to help developers in _App Servers management_ (deploy applications, view logs, start/stop apps, logging configuration, create system props, enable blue/green deployment etc...)
+* Write documentation and blog about best practices
+* Drive/help teams to build delivery pipelines on Jenkins
+* Migration of legacy applications (JavaEE 5 or below) to new stack (Java EE 7/8)
+* worked 3 years (2011-2014) in internal software factory using scrum
+
+==== Used technologies
+
+* JavaEE 6/7 stack (mainly EJB, JSF, JPA/Hibernate)
+* Swagger (REST API)
+* JBoss EAP 6/7 (application server)
+* Jasper Reports
+* Artifactory
+* Jenkins
+* Android
+* Microsoft .Net Framework
+* OracleDB
+* Redmine/TFS
+* SVN/GIT
+
+
+=== Microsoft Developer at TOTVS
+
+icon:calendar[title="Period"] _Febuary 2010 to June 2010_ +
+icon:group[title="Employee"] {link-totvs}[TOTVS, role="external", window="_blank"] +
+
+--
+[horizontal]
+Position:: *Microsoft Developer* +
+--
+
+* Worked with C# and ASP.Net in a web system for hospitals.
+
+==== Used technologies
+
+* C#
+* ASP.NET
+* Microsoft .Net Framework 3.5
+* Jira
+* OracleDB
+
+=== Microsoft Developer at Rede&Imagem
+
+icon:calendar[title="Period"] _January 2009 to Febuary 2010_ +
+icon:group[title="Employee"] {link-redeimagem}[Rede & Imagem Tecnologias LTDA , role="external", window="_blank"] +
+
+--
+[horizontal]
+Position:: *Microsoft Developer* +
+--
+* Worked with systems analisis and design.
+* Worked on desktop and web aplications using C# and ASP.Net.
+* Designed SQL Server databases with Enterprise Architect.
+
+==== Used technologies
+
+* C#
+* ASP.Net
+* SQL Server
+* Crystal Reports
+
+=== Developer (Trainee) at Banrisul
+
+icon:calendar[title="Period"] _July 2007 to January 2009_ +
+icon:group[title="Trainee"] {link-banrisul}[Banrisul - Banco do Estado do Rio Grande do Sul, role="external", window="_blank"] +
+
+--
+[horizontal]
+Position:: *Developer Trainee* +
+--
+
+* Worked on migrating one of the main bank's system. It was coded in C and we created a new system in java.
+* Worked in other applications with VB, ASP, C# and ASP.Net.
+
+
+==== Used technologies
+
+* JavaSE
+* OracleDB
+* Microsoft technologies (VB, ASP, C# and ASP.Net)
+
+
+== Technical Skills
+
+Languages and Specifications:: Java SE 7/8, C#, PHP, TypeScript, JavaScript, JSON, CSS and HTML
+
+Application Servers:: *JBoss EAP 6/7*, Bea Weblogic and Apache Tomcat/Tomee
+
+Frameworks and Libraries:: *Java EE* (JSF, JPA, EJB, Servlet, JSP), http://primefaces.org[Primefaces^], Microsoft .Net Framework, Adroid SDK and Angular
+
+OS:: Windows
+
+Databases:: Oracle, MySQL and SQL Server
+
+Tools:: Eclipse, Maven, Redmine, Subversion, Git, Jenkins, Artifactory, Astah, ERWin, Adroid Studio, Visual Studio Code and Microsoft Visual Studio
+
+ADLM:: TFS
+
+== Languages Skills
+
+* Portuguese : Native
+* English : Advanced
+
+== Education
+
+=== Bachelor’s degree: Bachelor in Sistems Information
+* University: Pontifícia Universidade Católica do Rio Grande do Sul ({link-pucrs}[PUCRS, role="external", window="_blank"])
+* icon:calendar[title="Period"] _2009-2013_ - *Concluded*
+
+=== Technical license: Techinical in Sistems Information
+* University: Universidade Federal do Rio Grande do Sul ({link-ufrgs}[UFRGS, role="external", window="_blank"]), Porto Alegre, Brazil
+* icon:calendar[title="Period"] _2006-2009_ - *Concluded*
+
+=== Extracurricular activities
+
+* Android Fundamentals - {link-sisnema}[Sisnema, role="external", window="_blank"] - icon:calendar[title="Period"] 2011 - *Concluded*
+* Android Advanced - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2013 - *Concluded*
+* Dinamic Web Development with Java - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2014 - *Concluded*
+* UX and UI for mobile - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2016 - *Concluded*
+* Angular - {link-alura}[Alura, role="external", window="_blank"] - icon:calendar[title="Period"] 2019 - *Concluded*
