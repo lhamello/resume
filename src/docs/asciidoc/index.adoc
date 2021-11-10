@@ -12,7 +12,7 @@ Kismet Chameleon <kismet@asciidoctor.org>
 :includedir: _includes
 
 // Refs
-:link-resume: http://guilhermecastello.github.io/resume
+:link-resume: http://lhamello.github.io/resume
 :link-linkedin: https://www.linkedin.com/in/lhamello
 :link-twitter: https://twitter.com/lhamello
 :link-home: https://goo.gl/maps/NpRTv
