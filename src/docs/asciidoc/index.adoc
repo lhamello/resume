@@ -11,6 +11,7 @@ Kismet Chameleon <kismet@asciidoctor.org>
 :source-language: asciidoc
 :includedir: _includes
 
+
 // Refs
 :link-resume: http://lhamello.github.io/resume
 :link-linkedin: https://www.linkedin.com/in/lhamello
