@@ -1,8 +1,8 @@
-= Guilherme Castello
-Guilherme Castello <guilhermecastello@gmail.com>
+= Luiz Henrique A. Mello
+Luiz Mello <lhamello@gmail.com>
 Kismet Chameleon <kismet@asciidoctor.org>
 :revnumber: 1.0 
-:revdate: Set 2019
+:revdate: Nov 2021
 :icons: font
 :linkattrs:
 :sectanchors:
@@ -13,29 +13,16 @@ Kismet Chameleon <kismet@asciidoctor.org>
 
 // Refs
 :link-resume: http://guilhermecastello.github.io/resume
-:link-linkedin: https://www.linkedin.com/in/guilherme-castello-5a6440163/
-:link-twitter: https://twitter.com/castelloGui
+:link-linkedin: https://www.linkedin.com/in/lhamello
+:link-twitter: https://twitter.com/lhamello
 :link-home: https://goo.gl/maps/NpRTv
+:link-github: https://github.com/lhamello
 
-:link-pucrs: http://www.pucrs.br/
-:link-ufrgs: http://www.ufrgs.br/
+// Other links
 :link-procergs: http://www.procergs.rs.gov.br/
-:link-redeimagem: https://www.redeimagem.com.br/
-:link-totvs: https://www.totvs.com/
-:link-banrisul: https://www.banrisul.com.br/
-
-
-//projects
-:link-github: https://github.com/guilhermecastello
-
-
-//other links
-:link-sisnema: http://www.sisnema.com.br/
-:link-targettrust: https://targettrust.com.br/
-:link-alura: https://www.alura.com.br/
-:link-jenkins: https://jenkins.io/
-:link-artifactory: https://www.jfrog.com/open-source/
-
+:link-digitel: http://www.digitel.com.br/pt/home/default.asp
+:link-pucrs: https://www.pucrs.br/
+:link-unisc: https://www.unisc.br/
 
 ifeval::["{backend}" == "html5"]
 icon:file-pdf-o[] Read this resume {link-resume}/index.pdf[in PDF here, role="external", window="_blank"]. +
@@ -50,160 +37,125 @@ endif::[]
 
 ****
 
-I'm a *systems analyst/developer* who works with many technologies, like *Java, Microsoft .Net and Android*.+
+I'm a Analyst/Software Engineer/Developer who works on Java enterprise application using technologies such as JavaEE, CDI and Angular. +
 
-I have a bachelor degree in {link-resume}/#_education[Systems Information] and I work with software development since 2007. +
+I have a bachelor degree in {link-resume}/#_education[Computer Science] and I work with software development since 2008. +
 
-I'm currently working as a team leader, systems analyst and developer at {link-procergs}[PROCERGS^]. My team is responsible for maintain and develop new features for a system of the state traffic department. +
+I'm currently working as a team leader, scrum master, systems analyst and developer at {link-procergs}[PROCERGS^]. The team that I am part of, and that I lead, is responsible for developing new features for the vehicle area system of the state traffic department. +
 
 
 ****
 
-== Personal details
-
-`Name:` Guilherme Medina Castello +
-`Social Media:` icon:linkedin[link={link-linkedin}, role="external", window="_blank", alt="@guilhermecastello"] / icon:github[link={link-github}, role="external", window="_blank", alt="@guilhermecastello"] / icon:twitter[link={link-twitter}, role="external", window="_blank", alt="@castelloGui"] +
-`Location:` {link-home}["Porto Alegre/RS, Brazil", role="external", window="_blank"] +
-`Email`: guilhermecastello@gmail.com +
-`Phone:` +55 51 998816365 
-
 == Main interests
 
-* Java
-* Web development
-* Mobile apps 
+* JavaEE / CDI
+* Spring
+* SpringBoot
 * Agile methodologies
+* Testing
+* Continuos Delivery
 * SOA / Microservices
+* Docker and containers
 
- 
+== Personal details
+
+`Name:` Luiz Henrique Araujo Mello +
+`Social Media:` icon:linkedin[link={link-linkedin}, role="external", window="_blank", alt="@lhamello"] / icon:github[link={link-github}, role="external", window="_blank", alt="@lhamello"] / icon:twitter[link={link-twitter}, role="external", window="_blank", alt="@lhamello"] +
+`Location:` {link-home}["Porto Alegre/RS, Brazil", role="external", window="_blank"] +
+`Email`: lhamello@gmail.com +
+`Phone:` +55 51 99325-3558
+
+
 == Professional Experience
 
 === Systems Analyst / Developer at PROCERGS
 
-icon:calendar[title="Period"] _June 2010 to Now (On going)_ +
+icon:calendar[title="Period"] _August 2011 to Now (On going)_ +
 icon:group[title="Employee"] {link-procergs}[PROCERGS - Cia. de Processamento de Dados do Rio Grande do Sul, role="external", window="_blank"] +
 
 --
 [horizontal]
-Position:: *Team leader - Systems analist - Developer (Java, Android, .Net) - Agile* +
+Position:: *Team leader - Scrum Master - Systems Analist - Developer +
 --
 
-* Designing, analyzing and developing software for the state traffic department. 
-* Migrating legacy systems in Cobol to Java applications.
-* Worked on the development of Android apps.
-* Acting as a Scrum Master and a team leader.
+* Create and maintain JavaEE-based solutions for several Rio Grande do Sul state secretariats
+* Manage demands directly with external customers
+* Creating user stories
+* Acting as a Scrum Master and a team leader
+* Organize and manage team backlog
+* Migrating legacy systems in Cobol to Java applications
 
 ==== Used technologies
 
-* JavaEE 6/7 stack (mainly EJB, JSF, JPA/Hibernate)
+* JavaEE 6/7 stack (mainly EJB, CDI, JaxRS/RestEasy/Jersey, JSF, JPA/Hibernate)
+* Primefaces / Richfaces
+* JSF
+* Cucumber / Selenium / Junit (tests)
 * Swagger (REST API)
 * JBoss EAP 6/7 (application server)
+* Maven
 * Jasper Reports
 * Artifactory
 * Jenkins
-* Android
-* Microsoft .Net Framework
-* OracleDB
+* Sonar
+* OracleDB/Postgres
 * Redmine/TFS
-* SVN/GIT
+* CVS/SVN/GIT
+* Docker
 
 
-=== Microsoft Developer at TOTVS
+=== Java Developer at Digitel
 
-icon:calendar[title="Period"] _Febuary 2010 to June 2010_ +
-icon:group[title="Employee"] {link-totvs}[TOTVS, role="external", window="_blank"] +
-
---
-[horizontal]
-Position:: *Microsoft Developer* +
---
-
-* Worked with C# and ASP.Net in a web system for hospitals.
-
-==== Used technologies
-
-* C#
-* ASP.NET
-* Microsoft .Net Framework 3.5
-* Jira
-* OracleDB
-
-=== Microsoft Developer at Rede&Imagem
-
-icon:calendar[title="Period"] _January 2009 to February 2010_ +
-icon:group[title="Employee"] {link-redeimagem}[Rede & Imagem Tecnologias LTDA , role="external", window="_blank"] +
+icon:calendar[title="Period"] _December 2008 to August 2011_ +
+icon:group[title="Employee"] {link-digitel}[DIGITEL, role="external", window="_blank"] +
 
 --
 [horizontal]
-Position:: *Microsoft Developer* +
+Position:: *Java Developer* +
 --
-* Worked with systems analysis and design.
-* Worked on desktop and web applications using C# and ASP.Net.
-* Designed SQL Server databases with Enterprise Architect.
+
+* Modular software development using JAVA (J2EE and Swing), JBoss and PostgreSQL platform, in client-server architecture
+* Active participation in the search for improvements and new technologies to improve the developed software
+* Creation of a new software standard for the product line worked
 
 ==== Used technologies
 
-* C#
-* ASP.Net
-* SQL Server
-* Crystal Reports
+* Java
+* Swing
+* JBoss
+* PostgreSQL
 
-=== Developer (Trainee) at Banrisul
-
-icon:calendar[title="Period"] _July 2007 to January 2009_ +
-icon:group[title="Trainee"] {link-banrisul}[Banrisul - Banco do Estado do Rio Grande do Sul, role="external", window="_blank"] +
-
---
-[horizontal]
-Position:: *Developer Trainee* +
---
-
-* Worked on migrating one of the main bank's system. It was coded in C and we created a new system in java.
-* Worked in other applications with VB, ASP, C# and ASP.Net.
-
-
-==== Used technologies
-
-* JavaSE
-* OracleDB
-* Microsoft technologies (VB, ASP, C# and ASP.Net)
 
 
 == Technical Skills
 
-Languages and Specifications:: Java SE 7/8, C#, PHP, TypeScript, JavaScript, JSON, CSS and HTML
+Languages and Specifications:: Java SE 7/8, JSON, YAML, Swagger
 
 Application Servers:: *JBoss EAP 6/7*, Bea Weblogic and Apache Tomcat/Tomee
 
-Frameworks and Libraries:: *Java EE* (JSF, JPA, EJB, Servlet, JSP), http://primefaces.org[Primefaces^], Microsoft .Net Framework, Android SDK and Angular
+Frameworks and Libraries:: *Java EE* (JSF, JPA, EJB, CDI, JAX-RS, Servlet), J2EE, http://primefaces.org[Primefaces^].
 
 OS:: Windows
 
-Databases:: Oracle, MySQL and SQL Server
+Databases:: Oracle, PostgreSQL and HSQLDB/H2
 
-Tools:: Eclipse, Maven, Redmine, Subversion, Git, Jenkins, Artifactory, Astah, ERWin, Android Studio, Visual Studio Code and Microsoft Visual Studio
+Software Engineering:: OOP, DevOps, Design Patterns, Unit Testing, Integration Testing, BDD, Continuous Delivery
 
-ADLM:: TFS
+Tools:: Eclipse, Netbeans, Maven, Redmine, Subversion, Git, Asciidoctor, Jenkins, Sonar, Artifactory, Visual Studio Code.
+
+ADLM:: AzureDevops
 
 == Languages Skills
 
 * Portuguese : Native
-* English : Advanced
+* English : Intermediate
 
 == Education
 
-=== Bachelor’s degree: Bachelor in Sistems Information
+=== Specialist degree: Software engineering with an emphasis on government solutions
+* University: Universidade de Santa Cruz do Sul ({link-pucrs}[UNISC, role="external", window="_blank"])
+* icon:calendar[title="Period"] _2014-2016_ - *Concluded*
+
+=== Bachelor’s degree: Bachelor in Computer Science
 * University: Pontifícia Universidade Católica do Rio Grande do Sul ({link-pucrs}[PUCRS, role="external", window="_blank"])
-* icon:calendar[title="Period"] _2009-2013_ - *Concluded*
-
-=== Technical license: Techinical in Sistems Information
-* University: Universidade Federal do Rio Grande do Sul ({link-ufrgs}[UFRGS, role="external", window="_blank"]), Porto Alegre, Brazil
-* icon:calendar[title="Period"] _2006-2009_ - *Concluded*
-
-=== Extracurricular activities
-
-* Android Fundamentals - {link-sisnema}[Sisnema, role="external", window="_blank"] - icon:calendar[title="Period"] 2011 - *Concluded*
-* Android Advanced - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2013 - *Concluded*
-* Dynamic Web Development with Java - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2014 - *Concluded*
-* UX and UI for mobile - {link-targettrust}[Target Trust, role="external", window="_blank"] - icon:calendar[title="Period"] 2016 - *Concluded*
-* Angular - {link-alura}[Alura, role="external", window="_blank"] - icon:calendar[title="Period"] 2019 - *Concluded*
+* icon:calendar[title="Period"] _2006-2010_ - *Concluded*
